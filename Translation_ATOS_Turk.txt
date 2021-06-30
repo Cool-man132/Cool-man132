@@ -22,4 +22,4 @@ Saniyeler
 notes
 Notlar
 version
-version
+versiyon
