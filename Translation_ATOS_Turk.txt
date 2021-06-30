@@ -1,0 +1,25 @@
+Start - AhnTri CCalc
+[ Welcome to AhnTri Calc ] 
+AhnTri Clac'ına hoşgeldin
+Enter first number:
+İlk numarayı girin:
+Enter second number:
+İkinci numarayı girin:
+Enter third number:
+Üçüncü numarayı girin:
+Your a:
+Senin a'ın:
+Your b:
+Senin b'in
+adding/subtracting/multiplying/dividing 2 numbers
+2 sayıyı toplama/çıkarma/çarpma/bölme
+Press any key to continue
+Devam etmek için herhangi bir tuşa basın
+timer
+Zamanlayıcı
+seconds
+Saniyeler
+notes
+Notlar
+version
+version
